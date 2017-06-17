@@ -1,0 +1,20 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Block.png" x="378" y="90" width="56" height="81"/>
+	<SubTexture name="Fall_0.png" x="384" y="0" width="58" height="88"/>
+	<SubTexture name="Fall_1.png" x="183" y="0" width="69" height="85"/>
+	<SubTexture name="Fall_2.png" x="0" y="178" width="79" height="76"/>
+	<SubTexture name="Hit_0.png" x="171" y="91" width="74" height="84"/>
+	<SubTexture name="Hit_1.png" x="0" y="0" width="93" height="87"/>
+	<SubTexture name="Hit_2.png" x="95" y="0" width="86" height="89"/>
+	<SubTexture name="Hit_3.png" x="0" y="89" width="93" height="87"/>
+	<SubTexture name="Hit_4.png" x="95" y="91" width="74" height="84"/>
+	<SubTexture name="Idle_0.png" x="247" y="87" width="64" height="83"/>
+	<SubTexture name="Idle_1.png" x="319" y="0" width="63" height="85"/>
+	<SubTexture name="Idle_2.png" x="313" y="87" width="63" height="87"/>
+	<SubTexture name="Idle_3.png" x="254" y="0" width="63" height="85"/>
+	<SubTexture name="Move_0.png" x="147" y="177" width="63" height="72"/>
+	<SubTexture name="Move_1.png" x="338" y="176" width="60" height="69"/>
+	<SubTexture name="Move_2.png" x="276" y="176" width="60" height="66"/>
+	<SubTexture name="Move_3.png" x="212" y="177" width="62" height="68"/>
+	<SubTexture name="Move_4.png" x="81" y="178" width="64" height="73"/>
+</TextureAtlas>
